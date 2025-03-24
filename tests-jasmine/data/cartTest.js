@@ -36,3 +36,4 @@ describe('test suite: addTocart', () => {
         expect(cart[0].quantity).toEqual(1);
     });
 });
+
